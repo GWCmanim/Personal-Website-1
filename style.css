@@ -1,0 +1,140 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: rgb(247, 144, 204);
+  font-size:16px;
+  margin:10px
+  padding: 2px
+  margin-left: 5%;
+  margin-right: 5%;
+} 
+
+.title {
+text-align: center;
+font-size: 39px;
+margin-left: 10%
+margin-right: 20%
+} 
+
+
+ul{
+  background-color:brown;
+  font-size: 16px;
+}
+
+
+.pageHeading {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+  padding: 2.6em;
+  text-shadow: 1px 1px black;
+  display: inline;
+}
+
+
+#meIntro {
+  font-size: 37px;
+  margin-left:120%;
+  margin-top: 4em;
+}
+
+.firstParagraph {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.intro{
+  margin-top:2em;
+}
+
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   margin-bottom: 2em;
+  margin-top: 2em;
+  border-radius: 35%;
+  max-width: 40%;
+  height: 250px;
+  width: 260px; 
+}
+
+
+
+.headings{
+  font-size: 30px;
+  margin-top: 2em;
+  margin-bottom: 0em;
+
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 3em;
+  text-shadow: 1px 1px black;
+}
+
+
+
+.firstPlaceholder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   margin-bottom: 2em;
+  margin-top: 2em;
+  border-radius: 35%;
+  max-width: 40%;
+  height: 250px;
+  width: 300px;
+
+}
+
+.secondPlaceholder {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+   margin-bottom: 2em;
+  margin-top: 3em;
+  border-radius: 30%;
+  max-width: 40%;
+  height: 250px;
+  width: 2500px;
+}
+
+
+#GWCheading{
+  margin-bottom: 0em;
+  margin-top: 2em;
+}
+
+
+
+.bHeading {
+  text-align: center;
+  font-size: 37px;
+}
+
+
+.portfolioText{
+  text-align: center;
+  font-size: 16px;
+  margin-left: 5%;
+  margin-right: 5%
+
+}
+
+
+
+ 
+  
+
+
+
